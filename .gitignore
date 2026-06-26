@@ -2,5 +2,14 @@
 __pycache__/
 *.py[cod]
 
-# macOS
+# Entorno virtual
+venv/
+
+# Archivos del sistema (macOS)
 .DS_Store
+
+# VS Code
+.vscode/
+
+# Configuración y contraseñas secretas ⚠️
+.env
