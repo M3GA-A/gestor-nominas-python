@@ -105,3 +105,4 @@ El sistema **Control de Nóminas** es una herramienta para registrar y organizar
 
 **Creado por:** Naiara Mega Garay  
 **Última actualización:** 2026
+<img width="656" height="706" alt="Control_nominas" src="https://github.com/user-attachments/assets/9572c00f-11db-4ade-811c-f2bfbe661954" />
